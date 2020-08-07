@@ -1,0 +1,45 @@
+
+
+$colorprincipal:#E71D7F;
+
+header{
+	background-color: $colorprincipal;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+ul{
+	list-style: none;
+
+}
+
+ul li{
+	display: inline;
+	margin: 10px;
+}
+
+
+.container{
+	flex-wrap: wrap;
+	padding-top: 15px;
+}
+
+.card{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.container-fluid{
+	margin-top: 120px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+}
+
+
+.rosa_fondo{
+	background-color: $colorprincipal;
+	padding-top: 45px;
+	padding-bottom: 45px;
+	margin-top: 45px;
+}
